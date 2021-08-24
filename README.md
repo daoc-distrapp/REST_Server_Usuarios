@@ -17,4 +17,4 @@ Este es un proyecto Spring Boot
 
 ## Cliente de prueba
 
-Utilice: https://github.com/dordonez-ute-moviles/Flutter_HttpClient
+Utilice: https://github.com/dordonez-ute-moviles/Flutter_HttpRestClient
